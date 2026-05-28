@@ -1,7 +1,0 @@
-
-11:36:07 Restoring C:\work\Respaldo_Base_de_Datos\backup_saatdevtest2_20260528_113512.sql.gz
-Running: mysql.exe --defaults-file="C:\Users\ASISTE~1\AppData\Local\Temp\tmp7k29fqd4.cnf"  --protocol=tcp --host=127.0.0.1 --user=root --port=3308 --default-character-set=utf8 --comments --database=saatdevtest2  < "C:\\work\\Respaldo_Base_de_Datos\\backup_saatdevtest2_20260528_113512.sql.gz"
-Error executing task: 'utf-8' codec can't decode byte 0x8b in position 209: invalid start byte
-Operation failed with exitcode 1
-Error executing task cannot access local variable 'result' where it is not associated with a value
-11:36:08 Import of C:\work\Respaldo_Base_de_Datos\backup_saatdevtest2_20260528_113512.sql.gz has finished
